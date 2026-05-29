@@ -10,7 +10,7 @@ A lightweight Android hiking companion app built with **Jetpack Compose** and **
 <!-- Add your screenshot here -->
 > _Drop a screenshot of the map with a selected mountain range card here._
 
-![Map Screen](screenshots/map_selected.png)
+![Map Screen](screenshots/map_selected.jpg)
 
 ---
 
