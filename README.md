@@ -61,14 +61,14 @@ app/src/main/java/com/vapuss/hikelite/
 ## Getting Started
 
 ### Prerequisites
-- Android Studio Hedgehog or newer
+- Android Studio Panda 4 or newer
 - A Google Maps API key ([get one here](https://console.cloud.google.com/))
 
 ### Setup
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/HikeLite.git
+   git clone https://github.com/Vapuss/HikeLite.git
    cd HikeLite
    ```
 
